@@ -1,1 +1,1 @@
-# admin-panel-live-link: https://md-latifurratul.github.io/admin-panel-live/
+# A shop-ease web admin
